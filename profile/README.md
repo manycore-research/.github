@@ -1,6 +1,6 @@
 # Manycore Research Institute 
 
-Manycore Research Institute is lead by [Zihan Zhou](https://zihan-z.github.io/). We are working cutting-edge computer vision problems.
+We are working cutting-edge computer vision problems at Manycore Research Institute ([Manycore Tech Inc.](https://kujiale.com/)) led by [Zihan Zhou](https://zihan-z.github.io/).
 
 ## News
 
