@@ -9,3 +9,4 @@ We are working cutting-edge computer vision problems at Manycore Research Instit
 ## Blogs
 
 * **2022-03-04**: [科研人在群核前沿院的日常PLOG](https://mp.weixin.qq.com/s/BWXyYpVM1-3y1D5OFtkyRg)
+* **2021-07-21**: [官宣！AI技术大牛周子寒教授加入群核科技](https://mp.weixin.qq.com/s/G0rZw_Zs26EDXForzag9Tw)
