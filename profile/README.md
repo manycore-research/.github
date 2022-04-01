@@ -5,3 +5,7 @@ We are working cutting-edge computer vision problems at Manycore Research Instit
 ## News
 
 * **Mar 2022**: [Faceformer](https://manycore-research.github.io/faceformer/) is accepted to CVPR 2022. This is the first data-driven approach to identify face loops from a single line drawing.
+
+## Blogs
+
+* **2022-03-04**: [科研人在群核前沿院的日常PLOG](https://mp.weixin.qq.com/s/BWXyYpVM1-3y1D5OFtkyRg)
