@@ -1,5 +1,3 @@
-![logo](https://raw.githubusercontent.com/manycore-research/.github/master/profile/logo.png)
-
 ## Manycore Research Institute
 
 We are working on cutting-edge computer vision problems at Manycore Research Institute led by [Zihan Zhou](https://zihan-z.github.io/).
