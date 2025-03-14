@@ -1,6 +1,6 @@
 ## Manycore Research Institute
 
-We are working on cutting-edge computer vision problems at Manycore Research Institute led by [Zihan Zhou](https://zihan-z.github.io/).
+Manycore Research Institute, Manycore Tech Inc. is dedicated to pioneering research at the intersection of artificial intelligence and computer-aided design (AI+CAD). We focuses on developing a generative AI engine for the 3D space, including spatial understanding, 3D design and manufacturing, human-computer interaction, and computer simulation and optimization.
 
 ## News
 
